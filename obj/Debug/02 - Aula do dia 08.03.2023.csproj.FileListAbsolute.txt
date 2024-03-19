@@ -1,0 +1,8 @@
+D:\Atividade Opcional, Algoritmos feitos em sala\02 - Aula do dia 08.03.2023\bin\Debug\ConsoleApp1.exe.config
+D:\Atividade Opcional, Algoritmos feitos em sala\02 - Aula do dia 08.03.2023\bin\Debug\ConsoleApp1.exe
+D:\Atividade Opcional, Algoritmos feitos em sala\02 - Aula do dia 08.03.2023\bin\Debug\ConsoleApp1.pdb
+D:\Atividade Opcional, Algoritmos feitos em sala\02 - Aula do dia 08.03.2023\obj\Debug\02 - Aula do dia 08.03.2023.csproj.AssemblyReference.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\02 - Aula do dia 08.03.2023\obj\Debug\02 - Aula do dia 08.03.2023.csproj.SuggestedBindingRedirects.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\02 - Aula do dia 08.03.2023\obj\Debug\02 - Aula do dia 08.03.2023.csproj.CoreCompileInputs.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\02 - Aula do dia 08.03.2023\obj\Debug\ConsoleApp1.exe
+D:\Atividade Opcional, Algoritmos feitos em sala\02 - Aula do dia 08.03.2023\obj\Debug\ConsoleApp1.pdb
